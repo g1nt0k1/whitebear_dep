@@ -1,0 +1,10 @@
+/*
+ * Clearfix style sheet
+ * version 1.0.0
+ * latest update: 1/Feb/2017
+ */
+ .clf:after {
+    content:" ";
+    display:block;
+    clear:both;
+}

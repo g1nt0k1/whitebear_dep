@@ -1,0 +1,38 @@
+/*
+ * Common style sheet
+ * version 1.0.0
+ * latest update: 1/Feb/2017
+ */
+
+body{
+     background-color: #81D4FA;
+     font-family: 'Raleway', sans-serif;
+     letter-spacing: 0.2em;
+ }
+
+h1{
+     font-size: 4em;
+     color: #FAFAFA;
+     letter-spacing: 0.2em;
+ }
+
+h2{
+     font-size: 3em;
+     /*color: #81D4FA;*/
+     letter-spacing: 0.2em;
+ }
+
+h3{
+    font-size: 2.4em;
+    /*color: #81D4FA;*/
+    letter-spacing: 0.2em;
+}
+
+p{
+    font-size: 1.6em;
+    color: #FAFAFA;
+}
+
+.f_rail{
+    font-family: 'Raleway', sans-serif;
+}
