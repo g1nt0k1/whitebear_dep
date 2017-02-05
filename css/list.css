@@ -1,5 +1,5 @@
 /*
- * Top page style sheet
+ * list page style sheet
  * version 1.0.0
  * latest update: 1/Feb/2017
  */
@@ -11,13 +11,16 @@ body{
 /* FirstView */
 .firstview{
     text-align: center;
-    margin: 40px 0 70px;
+    padding: 40px 0 40px;
+    margin-bottom: 20px;
+    background-color: #FAFAFA;
 }
 
-.fv_subtitle{
-    font-size: 1.6em;
-    letter-spacing: 0.2em;
+.fv_title{
+    font-size: 2.6em;
+    color: #81D4FA;
 }
+
 
 /* content_wrap */
 
