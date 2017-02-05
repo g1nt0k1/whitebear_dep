@@ -22,12 +22,20 @@ h2{
 .title_wrap{
     text-align: center;
     padding-top: 40px;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
 }
 
 .blog_title{
     font-size: 2em;
     color: #121212;
+    margin-bottom: 20px;
+}
+
+.date{
+    font-size: 1.3em;
+    margin-right: 5%;
+    color: #121212;
+    float: right;
 }
 
 /* navigation */
@@ -67,16 +75,16 @@ h2{
     padding: 4% 0;
 }
 
-.content_img{
-    max-width: 100%;
-    margin: 20px 0;
-}
-
-.blog_contents{
+.content_wrap p{
     color: #121212;
     font-size: 1.1em;
     letter-spacing: 0.2em;
     line-height: 1.6em;
+}
+
+.content_img{
+    max-width: 100%;
+    margin: 20px 0;
 }
 
 /* comment */
